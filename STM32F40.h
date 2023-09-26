@@ -316,5 +316,4 @@ typedef struct
 #define         SYSCFG_CLK_DI()             (RCC->APB2ENR &= ~(1 << 14))
 
 // Miscelaneos
-
 #enfif				/* STM32F407_H */
